@@ -1,0 +1,17 @@
+entity_class,entity_or_group,behavior_channel,observable_to_watch,signal_role,evidence_grade
+Government,Japan Ministry of Finance,Intervention authorization and disclosures,"Official yen buying/selling, aggregate and daily amounts, rhetoric on excessive moves",Primary trigger; daily detail can arrive after markets infer action,A
+Central bank,Bank of Japan,"Policy rate, JGB purchases and communications","Rate decisions, JGB purchase schedule, dissent, FX/financial-conditions language",Funding-cost and policy-divergence trigger,A
+Central bank,Federal Reserve,US rate path and dollar liquidity,"Payroll/CPI reaction, 2-year yield, swap-line usage, FIMA repo",External catalyst and global funding backstop,A
+Government group,G7 finance ministries and central banks,Coordinated intervention,Joint statements and synchronized dealing,Can reverse a disorderly yen move faster than unilateral action,A
+Institution,Hedge funds / global macro,Leveraged carry and cross-asset books,"CFTC yen positioning, carry-index beta, prime-broker margin commentary",Unwind amplifier,B
+Institution,Managed futures / CTAs,"Trend-following across FX, equities and volatility","JPY trend flip, futures positioning, fast change in cross-asset trend signals",May accelerate an established reversal,B
+Institution,Dealers and global banks,"FX swaps, options and balance-sheet capacity","JPY/USD basis, bid-ask spreads, implied volatility, dealer gamma",Transmission and liquidity condition,B
+Institution,Japanese life insurers,Foreign-bond holdings and hedge ratios,"Hedge-cost changes, foreign-bond sales/purchases, duration reallocation",Slow-moving flow that can reinforce or oppose spot moves,B
+Institution,GPIF and large pensions,Strategic rebalancing,"Asset-allocation bands, fiscal-year rebalancing and currency-hedge policy",Potential large flow; rarely a clean intraday signal,C
+Institution,Japanese retail FX accounts,Contrarian yen shorts and forced loss-cutting,"Margin balances, leverage rules, Tokyo Financial Exchange positions",Can damp gradual moves but amplify abrupt yen strength,B
+Company basket,Toyota / Honda / major exporters,Foreign revenue translated to yen,"Updated FX assumptions, hedge ratios, export mix and guidance",Yen strength can pressure translated earnings; operating effects vary,C
+Company basket,MUFG / SMFG / Mizuho,"Rates, JGBs, funding and bank equity","NIM guidance, securities duration, unrealized JGB losses, cross-currency funding",Bank shares distinguish orderly normalization from disorderly unwind,B
+Company basket,Dai-ichi / Tokio Marine / major insurers,Foreign bonds and currency hedging,"Hedge cost, ALM duration, realized gains/losses and capital sensitivity",Watch for foreign-bond repatriation or hedge adjustment,B
+Company basket,ANA / JAL,USD fuel and aircraft costs plus fuel hedges,"Fuel and FX hedge ratios, jet-fuel spread, surcharge policy",Weak yen plus high oil is a joint cost shock,B
+Company basket,JERA / TEPCO / Tokyo Gas,USD-denominated LNG and oil imports,"Fuel-adjustment lag, procurement hedges, LNG/oil benchmarks",Weak yen and energy spikes can compound importer pressure,B
+Company basket,SoftBank Group and high-beta tech,"Equity beta, financing and NAV convexity","Nasdaq, credit spreads, collateral value and funding disclosures","Useful stress amplifier, not a yen-specific causal proxy",C

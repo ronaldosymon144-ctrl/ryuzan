@@ -1,0 +1,29 @@
+date,type,name,weight,detail,source
+2024-03-27,jp,Three-way meeting,1,"Ministry of Finance, Bank of Japan and the FSA met after a 34-year low — a deliberate, visible signal of readiness.",Reuters
+2024-04-29,iv,Intervention · record day,5.92,"¥5.92tn (≈$40.8bn) of dollars sold — a single-day record at the time, executed during Golden Week when liquidity is thin. Spot 160.245.",MOF; Reuters 6 Aug 2024
+2024-05-01,iv,Intervention · second leg,3.87,"A further ¥3.87tn (≈$26bn). Period total ¥9.79tn, roughly $67bn.",MOF quarterly
+2024-06-26,jp,Kanda: on high alert,1,Currency chief Kanda: authorities “seriously concerned and on high alert” near a 38-year low. Intervention followed 15 days later.,Reuters
+2024-07-11,iv,Intervention · into a US miss,5.53,"¥5.53tn (≈$36.8bn), spot 161.76 → 157.30. Fired on a day the dollar was already offered on a weak US CPI print — pushing with the tide.",MOF; Reuters 18 Jul 2024
+2024-08-05,mkt,The unwind,4,"Carry positions closed en masse. Spot −7.6% in one week, the largest weekly move in this dataset. Nasdaq 100 sold off hard; VIX printed its third-largest spike on record.",StoneX / FOREX.com
+2025-01-24,jp,BOJ to 0.50%,2,First step of a genuine tightening cycle rather than an experiment. Passed 8–1.,BOJ statement
+2025-09-17,us,Fed begins cutting,2,"First of three consecutive quarter-point cuts, taking the US rate toward 3.50–3.75% by December. The gap starts closing from the American side.",Federal Reserve
+2025-09-15,joint,Japan–US currency understanding,2,"A cooperation understanding between Tokyo and Washington, later referenced by Mimura as working in cooperation since September. Date approximate.","Reuters, via Mimura"
+2025-10-29,us,Fed cuts again,1.5,Second consecutive quarter-point reduction.,Federal Reserve
+2025-12-10,us,Fed to 3.50–3.75%,1.5,Third and final cut of the cycle. Held at this level throughout 2026 to date.,Federal Reserve
+2025-12-19,jp,BOJ to 0.75%,2,"Unanimous. Takata and Tamura dissented only on the price-outlook wording, not the rate.",BOJ statement
+2025-12-22,jp,First warnings of the cycle,1,Mimura on “appropriate” action against excessive moves; Katayama on speculative moves and import costs.,Reuters; Trading Economics
+2026-01-23,jp,BOJ holds; yen +1.7%,1.5,"A hold from near an 18-month low. Note the pattern — Japanese intervention repeatedly clusters around hold decisions, when the disappointment sells the currency off.",Bloomberg
+2026-01-27,joint,Rate checks · Tokyo and Washington,4,Officials called banks for live prices in both capitals. Spot moved roughly 159 → 152. Ministry data released 30 January confirmed zero yen was spent.,Reuters 30 Jan 2026; Bloomberg
+2026-03-30,jp,Mimura’s first “decisive”,2,"Described as the strongest warning to that point, and the first use of the word. No intervention followed for a month.",Reuters 30 Mar 2026
+2026-04-28,jp,"BOJ holds at 0.75%, 6–3",1.5,"Three of nine favoured an increase. Two days later, intervention.",American Banker
+2026-04-30,iv,“Final advisory” · intervention same day,6.28,"Katayama said the time for bold steps was nearing; Mimura gave his “final advisory.” ¥6,278.7bn (≈$39bn) deployed that session. Spot 160.72 → 155.5.",Bloomberg; MOF Q2
+2026-05-04,iv,Intervention · follow-through,0.78,"¥780.2bn, a small continuation.",MOF Q2
+2026-05-06,iv,Intervention · third leg,4.68,"¥4,675.9bn. Period total ¥11,734.9bn, about $72.5bn — a record month at the time.",MOF Q2
+2026-06-16,jp,BOJ to 1.00%,3,"Highest Japanese policy rate since 1995. Passed 7–1 with Asada dissenting; Ueda absent, Himino chairing.",BOJ statement
+2026-07-23,mkt,40-year low,2,Spot reached 163.99 — the weakest the yen had been against the dollar in four decades.,Reuters
+2026-07-29,us,"Fed holds, 9–3",2,"Three dissents — Hammack, Kashkari, Logan — all in favour of raising. Unusual, and the start of market pricing for a US hike.",FOMC minutes
+2026-07-30,iv,Intervention · largest on record,15.4,"Venue volumes roughly nine times normal. Spot 164.0 → 157.8. Period total ¥15,399.3bn, about $97bn.",MOF; Goldman Sachs
+2026-08-03,joint,The United States joins,6,"First US operation in the yen market since 2011, buying yen with euros rather than dollars. South Korea acted alongside. Estimates of the US leg run $1–10bn — small, and explicitly a signal.",OMFIF; Goldman Sachs
+2026-08-28,us,Warsh at Jackson Hole,2,"The Fed chair: the committee must be confident inflation is moving to target “clearly and at sufficient speed — otherwise, we have work to do.” Hike odds rose to roughly two thirds.",Chase / J.P. Morgan
+2026-09-02,jp,Takata on the pace,1.5,A board member’s remarks on the size of future increases moved spot 160.39 → around 158 in US hours — a Tokyo-hours utterance worth more than two yen.,MUFG Research
+2026-09-03,joint,Bessent meets Katayama and Ueda,3,"The US Treasury Secretary met Japan’s finance minister and central bank governor at the G20, saying he was confident Japan would act in ways leading to a stronger yen. Spot fell toward 155.50.",MUFG Research

@@ -1,0 +1,47 @@
+source_id,title,publisher,publication_date,source_type,url
+NYFED-1998Q4,"Treasury and Federal Reserve Foreign Exchange Operations, Oct-Dec 1998",Federal Reserve Bank of New York,1999,official market report,https://www.newyorkfed.org/medialibrary/media/newsevents/news/markets/1999/q4final.pdf
+BIS-QR-2007,"BIS Quarterly Review, March 2007",Bank for International Settlements,2007-03,multilateral research,https://www.bis.org/publications/qr-200703.pdf
+BOJ-FMR-2009,Financial Markets Report,Bank of Japan,2009-01,central-bank report,https://www.boj.or.jp/en/research/brp/fmr/data/mkr0903.pdf
+BOJ-2011-FSR,"Financial System Report, October 2011",Bank of Japan,2011-10,central-bank report,https://www.boj.or.jp/en/research/brp/fsr/data/fsr111018a1.pdf
+BOJ-2011-AR,Annual Review 2011,Bank of Japan,2011,central-bank report,https://www.boj.or.jp/en/about/activities/act/data/ar2011.pdf
+BOJ-2013-TARGET,The Price Stability Target,Bank of Japan,2013-01-22,policy decision,https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2013/k130122b.pdf
+BOJ-2013-QQE,Introduction of Quantitative and Qualitative Monetary Easing,Bank of Japan,2013-04-04,policy decision,https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2013/k130404a.pdf
+BOJ-2016-NIRP,Key Points of Today's Policy Decisions,Bank of Japan,2016-01-29,policy decision,https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2016/k160129b.pdf
+BOJ-2016-YCC,New Framework for Strengthening Monetary Easing,Bank of Japan,2016-09-21,policy decision,https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2016/k160921a.pdf
+BOJ-2022-YCC,Statement on Monetary Policy,Bank of Japan,2022-12-20,policy decision,https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2022/k221220a.pdf
+BOJ-2023-FLEX,Conducting Yield Curve Control with Greater Flexibility,Bank of Japan,2023-07-28,policy decision,https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2023/mpr230728d.pdf
+BOJ-2024-FRAMEWORK,Changes in the Monetary Policy Framework,Bank of Japan,2024-03-19,policy decision,https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2024/k240319a.pdf
+BOJ-2024-HIKE,Change in the Guideline for Money Market Operations,Bank of Japan,2024-07-31,policy decision,https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2024/k240731a.pdf
+BOJ-2025-HIKE,Change in the Guideline for Money Market Operations,Bank of Japan,2025-01-24,policy decision,https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2025/k250124a.pdf
+BOJ-2025-DEC,Change in the Guideline for Money Market Operations,Bank of Japan,2025-12-19,policy decision,https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2025/k251219a.pdf
+BOJ-2026-JUN,Change in the Guideline for Money Market Operations,Bank of Japan,2026-06-16,policy decision,https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260616a.pdf
+BOJ-2026-JUL,Statement on Monetary Policy,Bank of Japan,2026-07-31,policy decision,https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260731a.pdf
+MOF-ALL-INTERVENTIONS,"Foreign Exchange Intervention Operations, April 1991-June 2026",Japan Ministry of Finance,2026,official dataset,https://www.mof.go.jp/english/policy/international_policy/reference/feio/foreign_exchange_intervention_operations.csv
+MOF-2024-INTERVENTION,"Foreign Exchange Intervention Operations, Apr-Sep 2024",Japan Ministry of Finance,2024,official disclosure,https://www.mof.go.jp/english/policy/international_policy/reference/feio/quarter/2024_3Qe.html
+MOF-2026-INTERVENTION,"Foreign Exchange Intervention Operations, Apr-Aug 2026",Japan Ministry of Finance,2026,official disclosure,https://www.mof.go.jp/english/policy/international_policy/reference/feio/monthly/20260828e.html
+BIS-BULLETIN-90,The market turbulence and carry trade unwind of August 2024,Bank for International Settlements,2024-08-27,multilateral research,https://www.bis.org/publications/bulletin-90-market-turbulence-and-carry-trade-unwind-august-2024
+BIS-QR-2024,"Carry off, carry on",Bank for International Settlements,2024-09-16,multilateral research,https://www.bis.org/publications/qr-202409/carry-off-carry-on
+FED-FSR-2020,"Financial Stability Report, May 2020",Federal Reserve Board,2020-05,central-bank report,https://www.federalreserve.gov/publications/2020-may-financial-stability-report-overview.htm
+FED-EMFX-2023,U.S. Interest Rates and Emerging Market Currencies,Federal Reserve Board,2023-10-04,central-bank research,https://www.federalreserve.gov/econres/notes/feds-notes/u-s-interest-rates-and-emerging-market-currencies-taking-stock-10-years-after-the-taper-tantrum-20231004.html
+BIS-WP-592,"The dollar, bank leverage and the deviation from covered interest parity",Bank for International Settlements,2016,working paper,https://www.bis.org/publications/working-paper-592-dollar-bank-leverage-and-deviation-covered-interest-parity.pdf
+BIS-WP-1000,Dollar beta and stock returns,Bank for International Settlements,2022,working paper,https://www.bis.org/publications/working-paper-1000-dollar-beta-and-stock-returns.pdf
+NBER-W14473,Carry Trades and Currency Crashes,NBER,2008,research paper,https://www.nber.org/system/files/working_papers/w14473/revisions/w14473.rev0.pdf
+IMF-WP-19-136,Anatomy of Sudden Yen Appreciations,International Monetary Fund,2019,working paper,https://www.imf.org/en/Publications/WP/Issues/2019/07/01/An-Anatomy-of-Sudden-Yen-Appreciations-47024
+BIS-WP-366,Currency Momentum Strategies,Bank for International Settlements,2011,working paper,https://www.bis.org/publications/working-paper-366-currency-momentum-strategies
+NBER-CRASH-NEUTRAL,Crash-neutral Currency Carry Trades,NBER,2008,research paper,https://users.nber.org/~confer/2008/apf08/jurek.pdf
+BIS-FX-ANATOMY,The anatomy of the global FX market,Bank for International Settlements,2013,multilateral research,https://www.bis.org/publications/qr-201312/anatomy-global-fx-market-through-lens-2013-triennial-survey
+BOJ-LIFE-INSURERS,Monetary Policy Divergence and Global Financial Stability,Bank of Japan,2017-01-20,central-bank speech,https://www.boj.or.jp/en/about/press/koen_2017/ko170120a.htm
+FRED-DEXJPUS,DEXJPUS: JPY vs USD,Federal Reserve Bank of St. Louis (FRED),daily series accessed 2026-09-16,public market data,https://fred.stlouisfed.org/series/DEXJPUS
+FRED-DEXMXUS,DEXMXUS: MXN vs USD,Federal Reserve Bank of St. Louis (FRED),daily series accessed 2026-09-16,public market data,https://fred.stlouisfed.org/series/DEXMXUS
+FRED-DEXUSAL,DEXUSAL: AUD vs USD,Federal Reserve Bank of St. Louis (FRED),daily series accessed 2026-09-16,public market data,https://fred.stlouisfed.org/series/DEXUSAL
+FRED-DEXUSNZ,DEXUSNZ: NZD vs USD,Federal Reserve Bank of St. Louis (FRED),daily series accessed 2026-09-16,public market data,https://fred.stlouisfed.org/series/DEXUSNZ
+FRED-DEXBZUS,DEXBZUS: BRL vs USD,Federal Reserve Bank of St. Louis (FRED),daily series accessed 2026-09-16,public market data,https://fred.stlouisfed.org/series/DEXBZUS
+FRED-SP500,SP500: S&P 500,Federal Reserve Bank of St. Louis (FRED),daily series accessed 2026-09-16,public market data,https://fred.stlouisfed.org/series/SP500
+FRED-NASDAQCOM,NASDAQCOM: Nasdaq Composite,Federal Reserve Bank of St. Louis (FRED),daily series accessed 2026-09-16,public market data,https://fred.stlouisfed.org/series/NASDAQCOM
+FRED-NIKKEI225,NIKKEI225: Nikkei 225,Federal Reserve Bank of St. Louis (FRED),daily series accessed 2026-09-16,public market data,https://fred.stlouisfed.org/series/NIKKEI225
+FRED-VIXCLS,VIXCLS: VIX,Federal Reserve Bank of St. Louis (FRED),daily series accessed 2026-09-16,public market data,https://fred.stlouisfed.org/series/VIXCLS
+FRED-DGS10,DGS10: US 10-year Treasury yield,Federal Reserve Bank of St. Louis (FRED),daily series accessed 2026-09-16,public market data,https://fred.stlouisfed.org/series/DGS10
+FRED-BAMLH0A0HYM2,BAMLH0A0HYM2: US high-yield OAS,Federal Reserve Bank of St. Louis (FRED),daily series accessed 2026-09-16,public market data,https://fred.stlouisfed.org/series/BAMLH0A0HYM2
+FRED-DCOILWTICO,DCOILWTICO: WTI crude oil,Federal Reserve Bank of St. Louis (FRED),daily series accessed 2026-09-16,public market data,https://fred.stlouisfed.org/series/DCOILWTICO
+FRED-CBBTCUSD,CBBTCUSD: Bitcoin,Federal Reserve Bank of St. Louis (FRED),daily series accessed 2026-09-16,public market data,https://fred.stlouisfed.org/series/CBBTCUSD
+FRED-DTWEXBGS,DTWEXBGS: Broad US dollar index,Federal Reserve Bank of St. Louis (FRED),daily series accessed 2026-09-16,public market data,https://fred.stlouisfed.org/series/DTWEXBGS

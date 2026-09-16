@@ -1,0 +1,115 @@
+{
+ "updated": "2026-09-14T18:40:00Z",
+ "cycle": "2026-09-14-A",
+ "state": {
+  "spot": "153.61",
+  "spot_note": "11 Sep close, ECB-consistent. Range floor 152.90, twice rejected above 154.50.",
+  "rung": "5",
+  "rung_note": "Close-contact-with-Washington language. Verbatim wording not yet captured — see note below.",
+  "next_boj": "Fri 18 Sep 2026",
+  "next_boj_note": "No updated projections. The statement and the press conference carry the whole signal.",
+  "next_fomc": "Wed 16 Sep 2026",
+  "next_fomc_note": "Updated dot plot. ~90% priced for a 25bp hike after Friday's CPI."
+ },
+ "items": [
+  {
+   "id": "2026-09-12-boj",
+   "published": "2026-09-12",
+   "cat": "CALENDAR",
+   "title": "BOJ decides Friday 18 September with no updated projections",
+   "detail": "Because there is no refreshed outlook report at this meeting, the statement wording and the Governor's press conference carry the entire signal. A 25bp increase to 1.25% is fully priced; OIS carries almost a second hike by year-end and more than three by mid-2027.",
+   "decision": "A hike itself is not the event. The vote split is — dissenters pushing for 50bp read hawkish, members preferring unchanged read dovish.",
+   "source": "StoneX, USD/JPY weekly outlook, 12 Sep 2026",
+   "url": "https://www.stonex.com/en-gb/news-and-analysis/usd-jpy-weekly-outlook-fed-boj-and-the-energy-wildcard/",
+   "rung": null
+  },
+  {
+   "id": "2026-09-12-fomc",
+   "published": "2026-09-12",
+   "cat": "POLICY · US",
+   "title": "FOMC decides Wednesday 16 September with a new dot plot",
+   "detail": "Market pricing for a 25bp hike lifted to roughly 90% after Friday's CPI. In June, nine of the eighteen forecast submissions saw at least one hike this year and six of those saw more than one — a marked turn from three months earlier, when the committee still projected the funds rate troughing near 3%.",
+   "decision": "If both central banks hike, the differential is roughly unchanged and the trade lives entirely in the surprise, not the level.",
+   "source": "StoneX, USD/JPY weekly outlook, 12 Sep 2026",
+   "url": "https://www.stonex.com/en-gb/news-and-analysis/usd-jpy-weekly-outlook-fed-boj-and-the-energy-wildcard/",
+   "rung": null
+  },
+  {
+   "id": "2026-09-11-katayama",
+   "published": "2026-09-11",
+   "cat": "OFFICIAL",
+   "title": "Finance Minister Katayama again confirms close contact with Washington on currency",
+   "detail": "Reported as a paraphrase, not a verbatim quote. Joint-action language is a distinct rung from unilateral escalation, and it is the rung that preceded the 3 August co-ordinated operation — the first US participation since 2011.",
+   "decision": "No rung assigned. The desk does not score a paraphrase: the classifier needs the original wording, and the Observer's queue is where that gets captured.",
+   "source": "StoneX, 12 Sep 2026, reporting remarks of 11 Sep",
+   "url": "https://www.stonex.com/en-gb/news-and-analysis/usd-jpy-weekly-outlook-fed-boj-and-the-energy-wildcard/",
+   "rung": null
+  },
+  {
+   "id": "2026-09-12-tape",
+   "published": "2026-09-12",
+   "cat": "MARKET",
+   "title": "Twice rejected above 154.50; range floor at 152.90",
+   "detail": "The post-CPI rally stalled above 154.50 and failed there for the second time since late last week. Below the 152.90 floor sits the January swing low at 152.10, then 151 — a level that has acted as both support and resistance for several years. RSI(14) around 29 with MACD extending after a bearish crossover.",
+   "decision": "A close below 152.09 opens 151, the multi-year pivot. Above 154.50 the bearish structure is on hold, not broken.",
+   "source": "StoneX, USD/JPY weekly outlook, 12 Sep 2026",
+   "url": "https://www.stonex.com/en-gb/news-and-analysis/usd-jpy-weekly-outlook-fed-boj-and-the-energy-wildcard/",
+   "rung": null
+  },
+  {
+   "id": "2026-09-12-anomaly",
+   "published": "2026-09-12",
+   "cat": "MARKET",
+   "title": "Hot CPI, higher front-end yields — and the dollar fell anyway",
+   "detail": "Core inflation came in above expectations, front-end yields rose and Fed pricing moved up, yet USD/JPY attempted a rally and then sold off sharply. The commentary attributes the behaviour to an unidentified force in the market.",
+   "decision": "This is the signature of official-sector presence. Treat price action that contradicts the rate move as a flow question, not a macro one, until the monthly release settles it.",
+   "source": "StoneX, USD/JPY weekly outlook, 12 Sep 2026",
+   "url": "https://www.stonex.com/en-gb/news-and-analysis/usd-jpy-weekly-outlook-fed-boj-and-the-energy-wildcard/",
+   "rung": null
+  },
+  {
+   "id": "2026-09-08-record",
+   "published": "2026-09-08",
+   "cat": "FLOW",
+   "title": "Record ¥15.4tn (≈ $100bn) deployment credited with marking the July top",
+   "detail": "The single largest yen-buying operation on record. USD/JPY now trades around 6% below its July high, with the 100-week EMA nearby as support. A selloff matching the 13.8% that followed the July 2024 operation would imply materially lower levels; 15% would put the pair near 137.76.",
+   "decision": "Size the tail, not the base case. The historical analogues argue the move does not stop where the intervention did.",
+   "source": "StoneX, Japanese Yen Outlook, 8 Sep 2026",
+   "url": "https://www.stonex.com/en-gb/news-and-analysis/japanese-yen-outlook-mof-riding-boj-fed-momentum-2026-09-08/",
+   "rung": null
+  },
+  {
+   "id": "2026-09-02-noint",
+   "published": "2026-09-02",
+   "cat": "FLOW",
+   "title": "2 September yen surge: BOJ account data indicated no government intervention",
+   "detail": "The move triggered widespread intervention speculation, but the central bank's account data subsequently showed no official operation behind it. Whether the ministry acted at any point after 2 September remains unconfirmed.",
+   "decision": "The market moved without a yen being spent. That is the rate-check effect — and it is the cheapest form of intervention there is.",
+   "source": "StoneX, Japanese Yen Outlook, 8 Sep 2026, citing Reuters and BOJ account data",
+   "url": "https://www.stonex.com/en-gb/news-and-analysis/japanese-yen-outlook-mof-riding-boj-fed-momentum-2026-09-08/",
+   "rung": null
+  },
+  {
+   "id": "2026-09-30-release",
+   "published": "2026-09-30",
+   "cat": "CALENDAR",
+   "title": "Ministry monthly release on 30 September covers 27 Aug – 28 Sep",
+   "detail": "This is the release that confirms or denies September intervention. Exact daily detail does not arrive until the quarterly breakdown in November.",
+   "decision": "Diarised. This is the day the ladder gets graded against what was actually spent.",
+   "source": "Japan Ministry of Finance disclosure schedule",
+   "url": "https://www.mof.go.jp/policy/international_policy/reference/feint/",
+   "rung": null
+  },
+  {
+   "id": "2026-08-20-joint",
+   "published": "2026-08-20",
+   "cat": "OFFICIAL",
+   "title": "United States joined yen intervention — first time since 2011",
+   "detail": "Co-ordinated action of 3 August, with US participation, marked a structural change in what the ministry can credibly threaten. The US Treasury Secretary has since made unusually direct remarks, including describing himself as 'the house'.",
+   "decision": "Joint action changes the payoff. A unilateral operation can be absorbed; a co-ordinated one cannot be faded on the same assumptions.",
+   "source": "CNBC, 20 Aug 2026; StoneX, 12 Sep 2026",
+   "url": "https://www.cnbc.com/2026/08/20/us-japan-yen-intervention-bank-of-japan-carry-trade.html",
+   "rung": null
+  }
+ ]
+}
